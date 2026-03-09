@@ -121,7 +121,7 @@ main {
 }
 
 main h1 {
-    font-size: 1.9em;
+    font-size: 1.5em;
     color: var(--cor5);
     font-family: var(--font-android);
 }
