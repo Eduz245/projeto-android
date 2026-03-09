@@ -80,7 +80,7 @@ header p {
     font-family: var(--font-padrão);
     font-size: 1.2em;
     max-width: 600px;
-    padding-bottom: 10px;
+    padding-bottom: 15px;
     padding-right: 10px;
     padding-left: 10px;
     margin: auto;
@@ -121,6 +121,7 @@ main {
 }
 
 main h1 {
+    font-size: 1.9em;
     color: var(--cor5);
     font-family: var(--font-android);
 }
